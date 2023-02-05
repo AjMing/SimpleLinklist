@@ -49,8 +49,12 @@ int main(int argc, const char * argv[]) {
         }
     */
     
+ /*  Exercise V Use malloc to create all nodes, instead of create a struct!!
+         //use a loop to help
+          
+     */
 
-    /*  Exercise V Free all node !!
+    /*  Exercise VI Free all node !!
          //use a loop to help
           
      */
